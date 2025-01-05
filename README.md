@@ -23,13 +23,13 @@ Once you have downloaded a Pysilon file:
 
 Install the required dependencies:  
 ```bash
-pip install -r requirements.txt
+pip install requests, beautifulsoup4, plyer, playsound
 ```  
 
 ## How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/XDLIN57/pysilon-Checker.git  
+   git clone https://github.com/XDLIN57/Pysilon-Checker.git  
    cd pysilon-checker  
    ```  
 2. Run the script:  
