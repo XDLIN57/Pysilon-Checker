@@ -22,8 +22,9 @@ pip install -r requirements.txt
 ## How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/pysilon-tracker.git  
-   cd pysilon-tracker  
+   git clone https://github.com/XDLIN57/pysilon-checker.git  
+   cd pysilon-checker
+   python PYSILONCHECKER.py
    ```  
 2. Run the script:  
    ```bash
