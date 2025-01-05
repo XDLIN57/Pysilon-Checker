@@ -10,6 +10,13 @@ Pysilon Tracker is a Python-based script designed to monitor the **tria.ge** pla
 - **Custom Notification Sound**: Add your preferred sound file to the `sound` folder (default placeholder included).  
 - **Easy-to-Use**: Lightweight and straightforward script for tracking Pysilon samples.  
 
+## What to Do with a Pysilon  
+Once you have downloaded a Pysilon file:  
+1. Go to [Uncoverit](https://www.uncoverit.org).  
+2. Upload the Pysilon file to decompile it.  
+3. Extract the Discord bot token from the file.  
+4. Use the token with my [Nuker Tool](https://github.com/yourusername/nuker) to perform further actions.
+
 ## Requirements  
 - Python 3.11 or later  
 - Libraries: `requests`, `beautifulsoup4`, `plyer`, `playsound`  
@@ -22,18 +29,11 @@ pip install -r requirements.txt
 ## How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/XDLIN57/pysilon-checker.git  
-   cd pysilon-checker
-   python PYSILONCHECKER.py
+   git clone https://github.com/XDLIN57/pysilon-Checker.git  
+   cd pysilon-checker  
    ```  
 2. Run the script:  
    ```bash
-   python pysilon_tracker.py  
+   python PYSILONCHECKER.py  
    ```  
 3. Add a custom notification sound by replacing the placeholder file in the `sound` folder.  
-
-## Notes  
-- Ensure a stable internet connection for accurate monitoring.  
-- Edit the URL in the script if the target page changes its structure or query parameters.  
-
----
