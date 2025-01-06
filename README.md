@@ -19,11 +19,12 @@ Once you have downloaded a Pysilon file:
 
 ## Requirements  
 - Python 3.11 or later  
-- Libraries: ```pip install -r requirements.txt```
+- Libraries: ```requests, beautifulsoup4, plyer, playsound```
 
 Install the required dependencies:  
 ```bash
-pip install requests, beautifulsoup4, plyer, playsound
+pip install -r requirements.txt
+ 
 ```
 
 ## How to Use  
