@@ -24,8 +24,7 @@ Once you have downloaded a Pysilon file:
 Install the required dependencies:  
 ```bash
 pip install -r requirements.txt
- 
-```
+ ```
 
 ## How to Use  
 1. Clone the repository:  
@@ -37,4 +36,4 @@ pip install -r requirements.txt
    ```bash
    python PYSILONCHECKER.py  
    ```  
-3. Add a custom notification sound by replacing the placeholder file in the `sound` folder.  
+3. Add a custom notification sound by replacing the placeholder file in the `sound` folder. 
