@@ -12,19 +12,19 @@ Pysilon Tracker is a Python-based script designed to monitor the **tria.ge** pla
 
 ## What to Do with a Pysilon  
 Once you have downloaded a Pysilon file:  
-1. Go to [Uncoverit](https://www.uncoverit.org).  
+1. Go to [Uncover it](https://www.uncoverit.org).  
 2. Upload the Pysilon file to decompile it.  
 3. Extract the Discord bot token from the file.  
 4. Use the token with my [Nuker Tool](https://github.com/XDLIN57/PYNUKE) to perform further actions.
 
 ## Requirements  
 - Python 3.11 or later  
-- Libraries: `requests`, `beautifulsoup4`, `plyer`, `playsound`  
+- Libraries: ```pip install -r requirements.txt```
 
 Install the required dependencies:  
 ```bash
 pip install requests, beautifulsoup4, plyer, playsound
-```  
+```
 
 ## How to Use  
 1. Clone the repository:  
