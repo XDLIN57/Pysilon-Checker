@@ -9,7 +9,7 @@ from playsound import playsound
 URL = "https://tria.ge/s?q=family%3Apysilon"
 latest_pysilon = None
 SOUND_FOLDER = "sound"
-SOUND_FILE = os.path.join(SOUND_FOLDER, "mixkit-software-interface-start-2574.wav")
+SOUND_FILE = os.path.join(SOUND_FOLDER, "notification.mp3")
 
 def setup_sound_folder():
     if not os.path.exists(SOUND_FOLDER):
